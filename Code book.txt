@@ -1,0 +1,83 @@
+
+Activity-activity performed by subject such Walking etc
+Subject- they are subjected considered for experiment
+mean_ tBodyAcc-mean()-Y     -     mean of  tBodyAcc-mean()-Y
+mean_ tBodyAcc-mean()-Z     -     mean of  tBodyAcc-mean()-Z
+mean_ tGravityAcc-mean()-Y     -     mean of  tGravityAcc-mean()-Y
+mean_ tBodyAccJerk-mean()-X     -     mean of  tBodyAccJerk-mean()-X
+mean_ tBodyAccJerk-mean()-Z     -     mean of  tBodyAccJerk-mean()-Z
+mean_ tBodyGyro-mean()-Y     -     mean of  tBodyGyro-mean()-Y
+mean_ tBodyGyroJerk-mean()-X     -     mean of  tBodyGyroJerk-mean()-X
+mean_ tBodyGyroJerk-mean()-Z     -     mean of  tBodyGyroJerk-mean()-Z
+mean_ tGravityAccMag-mean()     -     mean of  tGravityAccMag-mean()
+mean_ tBodyGyroMag-mean()     -     mean of  tBodyGyroMag-mean()
+mean_ fBodyAcc-mean()-X     -     mean of  fBodyAcc-mean()-X
+mean_ fBodyAcc-mean()-Z     -     mean of  fBodyAcc-mean()-Z
+mean_ fBodyAcc-meanFreq()-Y     -     mean of  fBodyAcc-meanFreq()-Y
+mean_ fBodyAccJerk-mean()-X     -     mean of  fBodyAccJerk-mean()-X
+mean_ fBodyAccJerk-mean()-Z     -     mean of  fBodyAccJerk-mean()-Z
+mean_ fBodyAccJerk-meanFreq()-Y     -     mean of  fBodyAccJerk-meanFreq()-Y
+mean_ fBodyGyro-mean()-X     -     mean of  fBodyGyro-mean()-X
+mean_ fBodyGyro-mean()-Z     -     mean of  fBodyGyro-mean()-Z
+mean_ fBodyGyro-meanFreq()-Y     -     mean of  fBodyGyro-meanFreq()-Y
+mean_ fBodyAccMag-mean()     -     mean of  fBodyAccMag-mean()
+mean_ fBodyBodyAccJerkMag-mean()     -     mean of  fBodyBodyAccJerkMag-mean()
+mean_ fBodyBodyGyroMag-mean()     -     mean of  fBodyBodyGyroMag-mean()
+mean_ fBodyBodyGyroJerkMag-mean()     -     mean of  fBodyBodyGyroJerkMag-mean()
+mean_ tBodyAcc-std()-X     -     mean of  tBodyAcc-std()-X
+mean_ tBodyAcc-std()-Z     -     mean of  tBodyAcc-std()-Z
+mean_ tGravityAcc-std()-Y     -     mean of  tGravityAcc-std()-Y
+mean_ tBodyAccJerk-std()-X     -     mean of  tBodyAccJerk-std()-X
+mean_ tBodyAccJerk-std()-Z     -     mean of  tBodyAccJerk-std()-Z
+mean_ tBodyGyro-std()-Y     -     mean of  tBodyGyro-std()-Y
+mean_ tBodyGyroJerk-std()-X     -     mean of  tBodyGyroJerk-std()-X
+mean_ tBodyGyroJerk-std()-Z     -     mean of  tBodyGyroJerk-std()-Z
+mean_ tGravityAccMag-std()     -     mean of  tGravityAccMag-std()
+mean_ tBodyGyroMag-std()     -     mean of  tBodyGyroMag-std()
+mean_ fBodyAcc-std()-X     -     mean of  fBodyAcc-std()-X
+mean_ fBodyAcc-std()-Z     -     mean of  fBodyAcc-std()-Z
+mean_ fBodyAccJerk-std()-Y     -     mean of  fBodyAccJerk-std()-Y
+mean_ fBodyGyro-std()-X     -     mean of  fBodyGyro-std()-X
+mean_ fBodyGyro-std()-Z     -     mean of  fBodyGyro-std()-Z
+mean_ fBodyBodyAccJerkMag-std()     -     mean of  fBodyBodyAccJerkMag-std()
+mean_ fBodyBodyGyroJerkMag-std()     -     mean of  fBodyBodyGyroJerkMag-std()
+sd_ tBodyAcc-mean()-Y     -     standard deviation  of BodyAcc-mean()-Y
+sd_ tGravityAcc-mean()-X     -     standard deviation  of GravityAcc-mean()-X
+sd_ tGravityAcc-mean()-Z     -     standard deviation  of GravityAcc-mean()-Z
+sd_ tBodyAccJerk-mean()-Y     -     standard deviation  of BodyAccJerk-mean()-Y
+sd_ tBodyGyro-mean()-X     -     standard deviation  of BodyGyro-mean()-X
+sd_ tBodyGyro-mean()-Z     -     standard deviation  of BodyGyro-mean()-Z
+sd_ tBodyGyroJerk-mean()-Y     -     standard deviation  of BodyGyroJerk-mean()-Y
+sd_ tBodyAccMag-mean()     -     standard deviation  of BodyAccMag-mean()
+sd_ tBodyAccJerkMag-mean()     -     standard deviation  of BodyAccJerkMag-mean()
+sd_ fBodyAcc-mean()-X     -     standard deviation  of BodyAcc-mean()-X
+sd_ fBodyAcc-mean()-Z     -     standard deviation  of BodyAcc-mean()-Z
+sd_ fBodyAcc-meanFreq()-Y     -     standard deviation  of BodyAcc-meanFreq()-Y
+sd_ fBodyAccJerk-mean()-X     -     standard deviation  of BodyAccJerk-mean()-X
+sd_ fBodyAccJerk-mean()-Z     -     standard deviation  of BodyAccJerk-mean()-Z
+sd_ fBodyAccJerk-meanFreq()-Y     -     standard deviation  of BodyAccJerk-meanFreq()-Y
+sd_ fBodyGyro-mean()-X     -     standard deviation  of BodyGyro-mean()-X
+sd_ fBodyGyro-mean()-Z     -     standard deviation  of BodyGyro-mean()-Z
+sd_ fBodyGyro-meanFreq()-Y     -     standard deviation  of BodyGyro-meanFreq()-Y
+sd_ fBodyAccMag-mean()     -     standard deviation  of BodyAccMag-mean()
+sd_ fBodyBodyAccJerkMag-mean()     -     standard deviation  of BodyBodyAccJerkMag-mean()
+sd_ fBodyBodyGyroMag-mean()     -     standard deviation  of BodyBodyGyroMag-mean()
+sd_ fBodyBodyGyroJerkMag-mean()     -     standard deviation  of BodyBodyGyroJerkMag-mean()
+sd_ tBodyAcc-std()-X     -     standard deviation  of BodyAcc-std()-X
+sd_ tBodyAcc-std()-Z     -     standard deviation  of BodyAcc-std()-Z
+sd_ tGravityAcc-std()-Y     -     standard deviation  of GravityAcc-std()-Y
+sd_ tBodyAccJerk-std()-X     -     standard deviation  of BodyAccJerk-std()-X
+sd_ tBodyAccJerk-std()-Z     -     standard deviation  of BodyAccJerk-std()-Z
+sd_ tBodyGyro-std()-Y     -     standard deviation  of BodyGyro-std()-Y
+sd_ tBodyGyroJerk-std()-X     -     standard deviation  of BodyGyroJerk-std()-X
+sd_ tBodyGyroJerk-std()-Z     -     standard deviation  of BodyGyroJerk-std()-Z
+sd_ tGravityAccMag-std()     -     standard deviation  of GravityAccMag-std()
+sd_ tBodyGyroMag-std()     -     standard deviation  of BodyGyroMag-std()
+sd_ fBodyAcc-std()-X     -     standard deviation  of BodyAcc-std()-X
+sd_ fBodyAcc-std()-Z     -     standard deviation  of BodyAcc-std()-Z
+sd_ fBodyAccJerk-std()-Y     -     standard deviation  of BodyAccJerk-std()-Y
+sd_ fBodyGyro-std()-X     -     standard deviation  of BodyGyro-std()-X
+sd_ fBodyGyro-std()-Z     -     standard deviation  of BodyGyro-std()-Z
+sd_ fBodyBodyAccJerkMag-std()     -     standard deviation  of BodyBodyAccJerkMag-std()
+sd_ fBodyBodyGyroJerkMag-std(     -     standard deviation  of BodyBodyGyroJerkMag-std(
+
